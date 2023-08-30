@@ -5,7 +5,7 @@
 With the advent of wearable technology sensors like the Apple Watch, Fitbit, and others, there has been a surge in the volume of useful data these devices collect.
 
 This project aims to delve into the possibilities of what can be achieved with this data in the realm of personal healthcare and fitness. 
-We attempt to recognize specific physical activities from wearable sensor data, utilizing the PAMAP2 Physical Activity Monitoring dataset.
+We attempt to create a robust and high performance multi-class classifier to recognize specific physical activities from wearable sensor data, utilizing the PAMAP2 Physical Activity Monitoring dataset.
 
 ## Objective
 The primary objective is to design a predictive model that is:
